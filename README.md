@@ -2,6 +2,4 @@
 
 This is really awesome website
 
-Updating REAME on update-readme branch
-
-Updating locally
+Updates made on master on GitHub before rebase
