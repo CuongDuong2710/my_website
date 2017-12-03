@@ -6,4 +6,4 @@ Updates made on master on GitHub before rebase
 
 Updating Readme from branch example
 
-Updating Readme from update-readme local
+Updating Readme from update-readme local, then remote
