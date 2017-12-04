@@ -4,6 +4,6 @@ This is really awesome website
 
 Updates made on update-readme on GitHub
 
-# Purpose Repository local
+## Purpose
 
-This is just a Readme file. This cause conflicts.
+This file is just a Readme file.
