@@ -2,6 +2,4 @@
 
 This is really awesome website
 
-Updates made on master on GitHub before rebase
-
-Update made on master on GitHub before rebase
+Updates made on update-readme on GitHub
